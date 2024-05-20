@@ -10,6 +10,7 @@ fi
 writefile=$1
 writestr=$2
 
+
 # Extract the directory path from the writefile path
 writedir=$(dirname "$writefile")
 
